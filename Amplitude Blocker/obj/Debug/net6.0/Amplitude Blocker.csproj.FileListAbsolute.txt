@@ -1,0 +1,30 @@
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.exe
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.deps.json
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.runtimeconfig.json
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.dll
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\bin\Debug\net6.0\ref\Amplitude Blocker.dll
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.pdb
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.csproj.AssemblyReference.cache
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.AssemblyInfoInputs.cache
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.AssemblyInfo.cs
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.csproj.CoreCompileInputs.cache
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.dll
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\ref\Amplitude Blocker.dll
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.pdb
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.genruntimeconfig.cache
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.exe
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.deps.json
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.runtimeconfig.json
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.dll
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\bin\Debug\net6.0\ref\Amplitude Blocker.dll
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\bin\Debug\net6.0\Amplitude Blocker.pdb
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.csproj.AssemblyReference.cache
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.AssemblyInfoInputs.cache
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.AssemblyInfo.cs
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.csproj.CoreCompileInputs.cache
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.dll
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\ref\Amplitude Blocker.dll
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.pdb
+C:\Users\NotUmbra\Documents\GitHub\Amplitude-Blocker\Amplitude Blocker\obj\Debug\net6.0\Amplitude Blocker.genruntimeconfig.cache

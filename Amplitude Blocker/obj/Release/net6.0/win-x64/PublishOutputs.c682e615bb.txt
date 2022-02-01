@@ -1,0 +1,2 @@
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\bin\Release\net6.0\publish\win-x64\Amplitude Blocker.pdb
+C:\Users\NotUmbra\source\repos\Amplitude Blocker\Amplitude Blocker\bin\Release\net6.0\publish\win-x64\Amplitude Blocker.exe
