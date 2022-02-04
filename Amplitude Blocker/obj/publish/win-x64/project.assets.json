@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NotUmbra\\source\\repos\\Amplitude Blocker\\Amplitude Blocker\\Amplitude Blocker.csproj",
+      "projectUniqueName": "C:\\Users\\NotUmbra\\Documents\\GitHub\\Amplitude-Blocker\\Amplitude Blocker\\Amplitude Blocker.csproj",
       "projectName": "Amplitude Blocker",
-      "projectPath": "C:\\Users\\NotUmbra\\source\\repos\\Amplitude Blocker\\Amplitude Blocker\\Amplitude Blocker.csproj",
+      "projectPath": "C:\\Users\\NotUmbra\\Documents\\GitHub\\Amplitude-Blocker\\Amplitude Blocker\\Amplitude Blocker.csproj",
       "packagesPath": "C:\\Users\\NotUmbra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NotUmbra\\source\\repos\\Amplitude Blocker\\Amplitude Blocker\\obj\\publish\\win-x64\\",
+      "outputPath": "C:\\Users\\NotUmbra\\Documents\\GitHub\\Amplitude-Blocker\\Amplitude Blocker\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

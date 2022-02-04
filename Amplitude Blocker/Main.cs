@@ -9,6 +9,8 @@ namespace Amplitude_Blocker
         {
             "api.amplitude.com",
             "api2.amplitude.com",
+            "cdn.amplitude.com",
+            "amplitude.com",
             "api.uca.cloud.unity3d.com",
             "config.uca.cloud.unity3d.com",
             "cdp.cloud.unity3d.com",
