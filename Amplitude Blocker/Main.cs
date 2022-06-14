@@ -16,7 +16,8 @@ namespace Amplitude_Blocker
             "cdp.cloud.unity3d.com",
             "data-optout-service.uca.cloud.unity3d.com",
             "perf-events.cloud.unity3d.com",
-            "public.cloud.unity3d.com"
+            "public.cloud.unity3d.com",
+            "ecommerce.iap.unity3d.com"
         };
 
 
