@@ -1,4 +1,7 @@
 # Amplitude-Blocker
+
+OUTDATED, USE https://github.com/Umbra999/Analytics-Preventer INSTEAD!!!
+
 Prevents traffic between you and Unity/VRChats Amplitude API to prevent HWID Bans and make ban evasion way more easy
 
 Works on every game which uses Unity
